@@ -5,11 +5,14 @@ Data Platform Architecture
 ![image](https://github.com/SteliosKar95/Data-Engineering-Capstone-Project-IBM/assets/131912284/4dc92e52-cc53-4ed0-9719-177cad455f0d)
 
 Objectives
+
 Demonstrate proficiency in skills required for an entry-level data engineering role
 Design and implement various concepts and components in the data engineering lifecycle such as data repositories
 Showcase working knowledge with relational databases, NoSQL data stores, big data engines, data warehouses, and data pipelines
 Apply skills in Linux shell scripting, SQL, and Python programming languages to Data Engineering problems
+
 Project Outline
+
 SoftCart's online presence is primarily through its website, which customers access using a variety of devices like laptops, mobiles and tablets.
 All the catalog data of the products is stored in the MongoDB NoSQL server.
 All the transactional data like inventory and sales are stored in the MySQL database server.
@@ -20,7 +23,9 @@ BI teams connect to the IBM DB2 for operational dashboard creation. IBM Cognos A
 SoftCart uses Hadoop cluster as it big data platform where all the data collected for analytics purposes.
 Spark is used to analyse the data on the Hadoop cluster.
 To move data between OLTP, NoSQL and the dataware house ETL pipelines are used and these run on Apache Airflow.
+
 Assignment Briefs
+
 1. MySQL Online Transactional Processing Database
 SoftCart will be using MySQL for our online transactional processing, such as storing inventory and sales data. Based on the sample data given, design the database schema and create a database to store our sales data. Create an index on the timestamp column and write an administrative bash script that exports sales data into a SQL file.
 
@@ -50,6 +55,7 @@ SoftCart has imported web server log files as accesslog.txt. Write an Airflow DA
 Our team has prepared a set of data containing search terms on our e-Commerce platform. Download the data and run analytic queries on it using pyspark and JupyterLab. Use a pretrained sales forecasting model to predict the sales for 2023.
 
 Tools/Software
+
 OLTP Database - MySQL
 NoSql Database - MongoDB
 Production Data Warehouse – DB2 on Cloud
