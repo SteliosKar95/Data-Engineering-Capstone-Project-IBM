@@ -1,4 +1,5 @@
 IBM Data Engineering Capstone Project
+
 In this project, I will assume the role of a Junior Data Engineer who has recently joined a fictional online e-Commerce company named SoftCart. I will be presented with real-world use cases that will require me to apply a number of industry standard data engineering solutions.
 
 Data Platform Architecture
