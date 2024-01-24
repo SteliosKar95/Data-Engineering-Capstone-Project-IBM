@@ -99,6 +99,6 @@ mongoexport --host localhost --port 27017 --authenticationDatabase admin --usern
 
 ```
 ```
-2023-12-08T17:11:21.863-0500    connected to: mongodb://localhost:27017/
-2023-12-08T17:11:21.875-0500    exported 438 records
+2024-01-21T17:11:21.863-0500    connected to: mongodb://localhost:27017/
+2024-01-21T17:11:21.875-0500    exported 438 records
 ```
