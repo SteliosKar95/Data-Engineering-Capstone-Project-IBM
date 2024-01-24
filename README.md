@@ -34,6 +34,7 @@ total sales per year per country
 total sales per month per category
 total sales per quarter per country
 total sales per category per country
+
 Design a data warehouse star schema using the pgAdmin ERD design tool, ensuring the table can generate yearly, monthly, daily, and weekly reports. Export the schema SQL and create a staging database. Your Senior Data Engineer will then review your schema design. Make any necessary adjustments before moving to the next phase.
 
 4. IBM Db2 Production Data Warehouse
@@ -57,6 +58,7 @@ Big Data Platform - Hadoop
 Big Data Analytics Platform – Spark
 Business Intelligence Dashboard - IBM Cognos Analytics
 Data Pipelines - Apache Airflow
+
 About This Project
 This project is part of the IBM Data Engineering Professional Certificate program, offered by IBM Skills Network and hosted on Coursera.
 
